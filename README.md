@@ -1,7 +1,6 @@
 # Analysis on the Effect of Meteorological Factors on Ozone Concentration Using Varying-Coefficient Quantile Regression
 
 **Author:** Matteo Venturini
-**Professor:** Yudhie Andriyana
 **Course:** Non-parametric methods
 **University:** Hasselt University
 **Date:** June 8, 2025
