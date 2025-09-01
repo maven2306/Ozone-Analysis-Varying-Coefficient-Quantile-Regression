@@ -3,7 +3,9 @@
 > **Author:** Matteo Venturini
 >
 > **Course:** Non-parametric methods
+> 
 > **University:** Hasselt University
+> 
 > **Date:** June 8, 2025
 
 ### Full report
