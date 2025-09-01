@@ -45,11 +45,6 @@ The model equation is:
 *   **Temperature:** Positively influences ozone levels, with its impact strengthening during the summer before slightly decreasing towards August.
 *   **Public Health Implications:** Under average conditions, median ozone levels can approach the WHO's recommended 8-hour maximum of 50 ppb during summer peaks. In worst-case meteorological scenarios, even lower quantiles can significantly exceed this guideline.
 
-## Repository Structure
-
-*   **`Analysis.R`**: The R script containing all the code for data cleaning, analysis, and visualization.
-*   **`Report.pdf`**: The full project report detailing the methodology, analysis, and conclusions.
-*   **`README.md`**: This file.
 
 ## How to Run the Analysis
 
